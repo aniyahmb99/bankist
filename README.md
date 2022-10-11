@@ -1,5 +1,9 @@
 # BANKIST
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195167697-133f7c3c-c354-465d-877a-f1b7c962bac0.png)
 
 ## DESCRIPTION
 This is the landing page for a minimalist themed banking app.
@@ -28,12 +32,6 @@ User can view other peoples reviews and testimonies about banking with this comp
 
 ## Technologies
 HTML, CSS, JavaScript
-
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
